@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About
+
+Created an instagram clone based on the tutorial by the cleverprogrammer
+
 ## Available Scripts
 
 In the project directory, you can run:
